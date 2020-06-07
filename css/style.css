@@ -1,0 +1,47 @@
+#profile-picture{
+    border-radius: 50%;
+}
+
+html, body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.dark-purple {
+    color: #502F4C
+}
+.light-purple {
+    color: #E1CCD5;
+}
+.lavender {
+    color: #BC8DA0;
+} 
+
+.wrapper {
+    background-color: #BC8DA0;
+    max-width: 50%;
+    display: flex;
+    flex-direction: row;
+    height: 80%;
+}
+
+.left, .right {
+    background-color: #502F4C;
+    
+    margin: 5px;
+    max-width: 50%;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .left {
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+  }
+

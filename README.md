@@ -1,2 +1,2 @@
-# mini-portfolio-hyo.github.io
+# Anna Wang
 basic personal website using HTML and CSS 
